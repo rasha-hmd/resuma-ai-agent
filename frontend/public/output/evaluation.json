@@ -1,0 +1,20 @@
+{
+  "overall_rating": "8.5/10",
+  "key_strengths": [
+    "Strong background in full-stack development",
+    "Experience with cloud technologies and agile methodologies"
+  ],
+  "areas_to_improve": [
+    {
+      "area": "FastAPI expertise",
+      "why": "While listed as a skill, no specific projects or experiences showcased",
+      "suggestion": "Highlighting FastAPI projects or contributing to open-source projects would strengthen this area"
+    }
+  ],
+  "missing_skills": [
+    "LLMs"
+  ],
+  "resume_feedback": [
+    "Consider adding more specific metrics (e.g., 'reduced deployment time by 60%') for quantifiable achievements"
+  ]
+}

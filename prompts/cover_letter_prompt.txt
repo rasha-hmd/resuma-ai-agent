@@ -1,0 +1,20 @@
+You are a professional career coach and writer.
+
+Using the following resume and job description, write a tailored, compelling cover letter for a job application.
+
+### Job Description:
+{job_description}
+
+### Candidate Resume:
+{resume}
+
+### Instructions:
+- Write in a professional, engaging tone.
+- Highlight key relevant skills and experiences from the resume.
+- Align the letter with the job description requirements.
+- Keep it concise and no longer than one page.
+- Do NOT fabricate experiences or skills.
+- End with a strong closing statement expressing enthusiasm.
+
+Output:
+<Cover Letter>

@@ -1,0 +1,135 @@
+# Senior Full Stack Developer - FinTech Startup
+
+**Company:** InnovatePay Technologies  
+**Location:** San Francisco, CA (Hybrid)  
+**Experience Level:** Senior (5+ years)  
+**Employment Type:** Full-time  
+
+## About InnovatePay Technologies
+
+InnovatePay Technologies is a rapidly growing fintech startup revolutionizing digital payment solutions for small and medium-sized businesses. We're building the next generation of payment processing platforms that combine cutting-edge technology with exceptional user experience.
+
+## Job Overview
+
+We are seeking a highly skilled Senior Full Stack Developer to join our engineering team. You will play a key role in designing, developing, and maintaining our core payment platform, working with modern technologies and contributing to architectural decisions that will shape our product's future.
+
+## Key Responsibilities
+
+- Design and develop scalable web applications using React, Node.js, and TypeScript
+- Build and maintain RESTful APIs and GraphQL services for our payment processing platform
+- Implement secure, PCI-compliant payment systems and financial data handling
+- Work with cloud technologies (AWS, Azure) to deploy and manage applications
+- Collaborate with cross-functional teams including product managers, designers, and DevOps engineers
+- Participate in code reviews, technical design discussions, and architecture planning
+- Mentor junior developers and contribute to team knowledge sharing
+- Implement automated testing strategies and maintain high code quality standards
+- Optimize application performance and ensure scalability for growing user base
+- Work in an agile environment with continuous integration and deployment practices
+
+## Required Technical Skills
+
+**Programming Languages:**
+- JavaScript/TypeScript (expert level)
+- Python (intermediate to advanced)
+- SQL for database interactions
+
+**Frontend Technologies:**
+- React (advanced) - minimum 3 years experience
+- Modern CSS frameworks (Tailwind CSS, Bootstrap)
+- HTML5, CSS3, responsive design principles
+- State management (Redux, Context API)
+- Frontend build tools (Webpack, Vite)
+
+**Backend Technologies:**
+- Node.js and Express.js (advanced)
+- RESTful API design and development
+- GraphQL implementation and best practices
+- Microservices architecture
+- Authentication and authorization (JWT, OAuth)
+
+**Databases:**
+- PostgreSQL (preferred) or MySQL
+- MongoDB for document storage
+- Redis for caching and session management
+- Database optimization and query performance
+
+**Cloud & DevOps:**
+- AWS services (EC2, RDS, S3, Lambda, API Gateway)
+- Docker containerization
+- Kubernetes orchestration
+- CI/CD pipelines (Jenkins, GitHub Actions)
+- Infrastructure as Code (Terraform preferred)
+
+**Additional Technologies:**
+- Git version control and collaborative development
+- Testing frameworks (Jest, Cypress, PyTest)
+- Message queues (Apache Kafka, RabbitMQ)
+- Monitoring and logging tools (DataDog, New Relic)
+- Elasticsearch for search functionality
+
+## Preferred Qualifications
+
+- Bachelor's degree in Computer Science, Engineering, or related field
+- 5+ years of professional software development experience
+- 3+ years of experience with React and Node.js
+- Previous experience in fintech, payments, or financial services industry
+- Experience with payment processing systems and PCI compliance
+- Knowledge of financial regulations and security best practices
+- Experience with high-traffic, scalable applications
+- Strong understanding of software architecture patterns
+- Experience with agile methodologies (Scrum, Kanban)
+- Excellent problem-solving and analytical skills
+- Strong communication and teamwork abilities
+
+## Nice to Have
+
+- Experience with machine learning or AI integration
+- Knowledge of blockchain and cryptocurrency technologies
+- Mobile app development experience (React Native)
+- Experience with data analytics and visualization tools
+- Certified AWS Solutions Architect or similar cloud certifications
+- Open source contributions and active GitHub profile
+- Experience with performance optimization and scalability challenges
+- Knowledge of financial APIs and third-party payment integrations
+
+## What We Offer
+
+- Competitive salary range: $140,000 - $180,000 based on experience
+- Equity participation in a fast-growing startup
+- Comprehensive health, dental, and vision insurance
+- Flexible work arrangements (hybrid model)
+- Professional development budget for conferences and training
+- Latest technology and equipment
+- Collaborative and innovative work environment
+- Opportunity to work on cutting-edge fintech solutions
+- Career growth opportunities as the company scales
+
+## Team Structure
+
+You will be joining a team of 12 engineers working on various aspects of our payment platform. Our engineering culture emphasizes:
+
+- Code quality and peer review processes
+- Continuous learning and knowledge sharing
+- Data-driven decision making
+- Rapid iteration and deployment
+- Cross-functional collaboration
+- Technical innovation and experimentation
+
+## Application Process
+
+Please submit your resume along with:
+- Portfolio or GitHub profile showcasing relevant projects
+- Brief cover letter explaining your interest in fintech
+- Any relevant certifications or achievements
+
+We are an equal opportunity employer committed to diversity and inclusion in our workplace.
+
+## Contact Information
+
+**Hiring Manager:** Sarah Johnson  
+**Email:** careers@innovatepay.com  
+**Application Deadline:** Open until filled
+
+---
+
+*This position requires authorization to work in the United States. We do not provide visa sponsorship for this role.*

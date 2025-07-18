@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+*.db
+
+# Node/React
+node_modules/
+dist/
+.env
+.vite
+
+# OS/System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+*.sock
+data/output/*

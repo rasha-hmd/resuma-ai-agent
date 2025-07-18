@@ -1,0 +1,17 @@
+[
+  {
+    "skill": "LLMs",
+    "recommended_courses": [
+      {
+        "title": "Natural Language Processing with Deep Learning in Python",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/specializations/nlp-python"
+      },
+      {
+        "title": "Large Language Models: Transformers, BERT, and XLNet",
+        "platform": "Udemy",
+        "url": "https://www.udemy.com/course/large-language-models-transformers-bert-and-xlnet/"
+      }
+    ]
+  }
+]

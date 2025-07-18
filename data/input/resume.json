@@ -1,0 +1,33 @@
+{
+  "basics": {
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "summary": "Software engineer with 2 years of experience in backend development and data processing."
+  },
+  "work": [
+    {
+      "name": "TechCorp",
+      "position": "Junior Python Developer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31",
+      "highlights": [
+        "Built RESTful APIs using Flask",
+        "Handled data ingestion pipelines",
+        "Worked with Docker for containerization"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "keywords": ["Flask", "Data Processing", "APIs"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cloud Uploader",
+      "description": "A tool for uploading data to AWS S3 using Boto3.",
+      "highlights": ["Integrated with AWS", "Handled large data files"]
+    }
+  ]
+}

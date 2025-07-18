@@ -1,0 +1,134 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    { #1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{ #1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Jane Doe}} & Email: \href{mailto:jane@example.com}{\faEnvelope} jane@example.com \\
+\href{https://www.linkedin.com/in/janedoe}{LinkedIn: janedoe} \\
+\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+
+  \resumeSubItem{\textbf{ Programming }}{ Python, JavaScript }
+
+  \resumeSubItem{\textbf{ DevOps }}{ Docker, AWS }
+
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    { TechCorp }{ 2022 - 2023 }
+    { Junior Python Developer }{ Remote }
+  \resumeItemListStart
+    
+      \resumeItem{ Built REST APIs with Flask }
+    
+      \resumeItem{ Integrated AWS services }
+    
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+
+\section{Education}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    { Some University }{ 2018 - 2022 }
+    { B.Sc. Computer Science }{ USA }
+
+\resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+
+\section{Projects}
+\resumeSubHeadingListStart
+
+  \resumeSubItem{\textbf{ CloudSync }}{ A tool for syncing files to AWS S3. }
+
+\resumeSubHeadingListEnd
+
+
+%-----------CERTIFICATIONS-----------------
+
+\section{Certifications}
+\resumeSubHeadingListStart
+
+  \resumeCertification{ AWS Certified Developer }{ 2023-05 }
+
+\resumeSubHeadingListEnd
+
+
+\end{document}

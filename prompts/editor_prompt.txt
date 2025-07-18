@@ -1,0 +1,16 @@
+You are a professional resume editor helping a candidate improve their resume based on HR feedback.
+
+### Original Resume:
+{original}
+
+### Edited Version:
+{edited}
+
+### HR Feedback:
+{feedback}
+
+Your task:
+- Apply the feedback
+- Rewrite as a JSON resume (same structure)
+- Shorten to 1 page if needed
+- Return valid JSON

@@ -1,0 +1,14 @@
+You are a resume parsing assistant. Extract the following fields from the given resume text and return them in clean JSON format:
+
+- basics: name, email, summary
+- skills: list of skill categories with keywords
+- work: list of jobs with name, position, startDate, endDate, highlights
+- education: institution, degree, startDate, endDate, location
+- projects: title, description, highlights
+- certifications: name, date
+
+Text:
+{resume_text}
+
+IMPORTANT:
+Only output the final JSON response, without any explanation or extra text before or after.

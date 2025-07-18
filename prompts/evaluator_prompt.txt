@@ -1,0 +1,41 @@
+You are a senior hiring manager at a top tech company.
+
+### Job Description:
+{job_description}
+
+### Resume:
+{resume}
+
+Evaluate the candidate as follows (output JSON):
+
+{{
+  "evaluation": {{
+    "overall_rating": "A string representing a score on a scale from 1 to 10, formatted like 'X/10' (e.g., '7.5/10', '9/10'). Include a brief explanation justifying the score. This must be a single string, not a list or number.",
+    "key_strengths": ["strength1", "strength2", "..."],
+    "areas_to_improve": [
+      {{"area": "skill1", "why": "...", "suggestion": "..."}}
+    ],
+    "missing_skills": ["skill1", "skill2", "..."],
+    "resume_feedback": ["improvement1", "improvement2"]
+  }},
+  "course_recommendations": [
+    {{
+      "skill": "skill_name",
+      "recommended_courses": [
+        {{
+          "title": "Course Title",
+          "platform": "Coursera or Udemy",
+          "url": "https://..."
+        }}
+      ]
+    }}
+  ]
+}}
+
+Instructions for course recommendations:
+- Recommend 1–3 relevant, highly rated courses from Coursera or Udemy for each missing or improvable skill.
+- Provide the course title, platform name, and URL.
+- Do NOT suggest generic courses — be specific.
+
+IMPORTANT:
+Only output the final JSON response, without any explanation or extra text before or after.
