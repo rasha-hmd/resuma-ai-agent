@@ -36,11 +36,11 @@ Resuma is an AI-powered resume assistant that helps job seekers effortlessly tai
 
 ## 📸 Screenshots
 
-![Home](Photos/Screenshot (141).png)
-![Results page](Photos/Screenshot (135).png)
-![Cover letter](Photos/Screenshot (136).png)
-![Suggested courses](Photos/Screenshot (137).png)
-![Rule based](Photos/Screenshot (139).png)
+![Home](Photos/Home.png)
+![Results page](Photos/Results.png)
+![Cover letter](Photos/CoverLetter.png)
+![Suggested courses](Photos/SuggestedCourses.png)
+![Rule based](Photos/RuleBased.png)
 
 ---
 
