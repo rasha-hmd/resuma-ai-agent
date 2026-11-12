@@ -23,3 +23,17 @@ Thumbs.db
 *.pid
 *.sock
 data/output/*
+
+# Virtual environment
+resuma/
+venv/
+.venv/
+
+# IDE
+.idea/
+
+# Personal data and large media
+data/input/*.pdf
+*.mov
+*.pptx
+*.docx
